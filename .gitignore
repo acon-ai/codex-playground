@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.build/
+dist/
+.venv/
+.env/
+.vscode/
+.idea/
+.pytest_cache/
+.DS_Store
